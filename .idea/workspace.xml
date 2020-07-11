@@ -11,20 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b80e44a-842f-4c4f-a2e6-e516dc36dc88" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/miichang/djhorn/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/miichang/djhorn/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,38 +152,38 @@
       <screen x="-202" y="-1057" width="1920" height="1057" />
     </state>
     <state x="545" y="-806" key="#com.intellij.ide.util.MemberChooser/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594474113800" />
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1594475457460">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1594478478351">
       <screen x="-202" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594475457460" />
-    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1594475457459">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594478478351" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1594478478350">
       <screen x="-202" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.center/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594475457459" />
-    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1594475457459">
+    <state width="1878" height="290" key="GridCell.Tab.0.center/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594478478350" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1594478478350">
       <screen x="-202" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.left/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594475457459" />
-    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1594475457459">
+    <state width="1878" height="290" key="GridCell.Tab.0.left/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594478478350" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1594478478350">
       <screen x="-202" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.right/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594475457459" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594478478350" />
     <state x="481" y="-645" key="ScreenshotRecorder.Options.Dimensions" timestamp="1594476348117">
       <screen x="-202" y="-1057" width="1920" height="1057" />
     </state>
     <state x="481" y="-645" key="ScreenshotRecorder.Options.Dimensions/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594476348117" />
-    <state x="203" y="-1057" key="ScreenshotViewer.Dimensions" timestamp="1594470448045">
+    <state x="203" y="-1057" key="ScreenshotViewer.Dimensions" timestamp="1594478520351">
       <screen x="-202" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="203" y="-1057" key="ScreenshotViewer.Dimensions/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594470448045" />
+    <state x="203" y="-1057" key="ScreenshotViewer.Dimensions/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594478520351" />
     <state x="553" y="-744" key="chooseDestDirectoryDialog" timestamp="1594464638838">
       <screen x="-202" y="-1057" width="1920" height="1057" />
     </state>
     <state x="553" y="-744" key="chooseDestDirectoryDialog/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594464638838" />
-    <state x="424" y="-772" width="676" height="486" key="find.popup" timestamp="1594473215413">
+    <state x="424" y="-772" width="833" height="486" key="find.popup" timestamp="1594478723952">
       <screen x="-202" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="424" y="-772" width="676" height="486" key="find.popup/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594473215413" />
+    <state x="424" y="-772" width="833" height="486" key="find.popup/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594478723952" />
     <state x="423" y="-822" key="search.everywhere.popup" timestamp="1594474100711">
       <screen x="-202" y="-1057" width="1920" height="1057" />
     </state>

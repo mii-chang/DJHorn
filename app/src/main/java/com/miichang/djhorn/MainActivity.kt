@@ -2,7 +2,6 @@ package com.miichang.djhorn
 
 import android.content.Intent
 import android.os.Bundle
-import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
@@ -32,7 +31,6 @@ class MainActivity : AppCompatActivity() {
         if (requestCode == REQUEST) {
             if (resultCode == RESULT) {
                 soundId = data?.extras?.getInt(SOUND_ID, 0) ?: 0
-                Log.e("sound main", soundId.toString())
             }
         }
 
