@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="sound" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b80e44a-842f-4c4f-a2e6-e516dc36dc88" name="Default Changelist" comment="" />
+    <list default="true" id="4b80e44a-842f-4c4f-a2e6-e516dc36dc88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/miichang/djhorn/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/miichang/djhorn/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="93PX1Y6M8" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -19,7 +44,20 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eXBSrGQasA32ccIDPAyWbmnQrX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,10 +65,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ScreenshotViewer.SavePath" value="$USER_HOME$/Desktop" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/raw" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.miichang.djhorn" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -40,7 +94,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -104,5 +158,47 @@
       <updated>1594458059915</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="545" y="-806" key="#com.intellij.ide.util.MemberChooser" timestamp="1594474113800">
+      <screen x="-202" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="545" y="-806" key="#com.intellij.ide.util.MemberChooser/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594474113800" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1594475457460">
+      <screen x="-202" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594475457460" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1594475457459">
+      <screen x="-202" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.center/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594475457459" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1594475457459">
+      <screen x="-202" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.left/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594475457459" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1594475457459">
+      <screen x="-202" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.right/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594475457459" />
+    <state x="481" y="-645" key="ScreenshotRecorder.Options.Dimensions" timestamp="1594476348117">
+      <screen x="-202" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="481" y="-645" key="ScreenshotRecorder.Options.Dimensions/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594476348117" />
+    <state x="203" y="-1057" key="ScreenshotViewer.Dimensions" timestamp="1594470448045">
+      <screen x="-202" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="203" y="-1057" key="ScreenshotViewer.Dimensions/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594470448045" />
+    <state x="553" y="-744" key="chooseDestDirectoryDialog" timestamp="1594464638838">
+      <screen x="-202" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="553" y="-744" key="chooseDestDirectoryDialog/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594464638838" />
+    <state x="424" y="-772" width="676" height="486" key="find.popup" timestamp="1594473215413">
+      <screen x="-202" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="424" y="-772" width="676" height="486" key="find.popup/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594473215413" />
+    <state x="423" y="-822" key="search.everywhere.popup" timestamp="1594474100711">
+      <screen x="-202" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="423" y="-822" key="search.everywhere.popup/-202.-1057.1920.1057/0.23.1440.877@-202.-1057.1920.1057" timestamp="1594474100711" />
   </component>
 </project>

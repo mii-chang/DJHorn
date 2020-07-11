@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">パリピ音</string>
+    <string name="select_sound">音色を選ぼう！</string>
+    <string name="dj_horn_sound">パリピ音</string>
+    <string name="sexy_sound">セクシーボイス</string>
+    <string name="japanese_come_on_sound">へいらっしゃい！</string>
+    <string name="lets_party_sound">レッツパーリー！</string>
+</resources>

@@ -2,5 +2,9 @@
 <resources>
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorAccent">#FF2525</color>
+    <color name="transparent">#00000000</color>
+    <color name="partyOrange">#FF9326</color>
+    <color name="partyPink">#FF2693</color>
+    <color name="partyPurple">#9326FF</color>
 </resources>
