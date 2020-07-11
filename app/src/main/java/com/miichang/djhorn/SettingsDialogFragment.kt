@@ -41,6 +41,17 @@ class SettingsDialogFragment : Fragment() {
             )
         }
 
+        binding.licenceButton.setOnClickListener {
+            fragmentManager.apply {
+                this?.let {
+                    val fragmentTransaction = it.beginTransaction()
+                    fragmentTransaction.addToBackStack(null)
+                    fragmentTransaction.replace(R.id.container, LicenceFragment.newInstance())
+                    fragmentTransaction.commit()
+                }
+            }
+        }
+
         return binding.root
     }
 }

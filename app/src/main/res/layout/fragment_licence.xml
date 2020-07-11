@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/sexy_licence_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sexy voice"
+            app:layout_constraintBottom_toTopOf="@id/sexy_licence"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/sexy_licence"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="https://commons.nicovideo.jp/material/nc147635"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/sexy_licence_title" />
+
+        <TextView
+            android:id="@+id/konfetti_licence_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Konfetti"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/sexy_licence" />
+
+        <TextView
+            android:id="@+id/konfetti_licence"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/konfetti_licence"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/konfetti_licence_title" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
